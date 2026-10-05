@@ -13,3 +13,17 @@ untitled.wf1 file runs FE model
 mapping_new.R file plots mapping
 
 Seo_et_al_2016_threshold.do file runs threshold regression model.
+
+---------------------
+World Health Organization - GLASS Data Visualization Dashboard - Global AMR data - Resistance to antibiotics in the selected calendar year
+Bloodstream is used as the infection type due to larger data availability and for each country and year (2020-2023), Resistance Percentage is averaged across all antibiotics. Zero values are removed. Countries which are not available for each year are also omitted to ensure a balanced dataset.
+
+Acinetobacter spp.: 54 countries
+Escherichia coli: 64 countries
+Klebsiella pneumoniae: 65 countries
+Salmonella spp.: 26 countries
+Streptococcus pneumoniae: 29 countries
+
+Afterwards, averaged Resistance Percentages are further averaged across Bacterial pathogens (Acinetobacter spp., Escherichia coli, Klebsiella pneumoniae, Salmonella spp., Streptococcus pneumoniae) for each year.
+
+
