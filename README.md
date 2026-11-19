@@ -7,8 +7,11 @@ TEMP is average maximum surface air temperature from Climate Change Knowledge Po
 Dataset: The dataset covers 2017-2024. 
 
 Methodology:
+
 mapping_new.R file plots mapping
 
 63countries_lag_panel2017_2024.dta is the STATA data file
+
 revised_63countries_panel.do is the STATA do file
+
 untitled.wf1 file also runs FE model
